@@ -1,0 +1,17 @@
+{
+  "name": "discover-world",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "aap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
