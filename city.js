@@ -2,12 +2,12 @@
 const mongoose = require('mongoose');
 
 const citySchema = new mongoose.Schema({
-  nombre: String,
-  atracciones: [
+  name: String,
+  attractions: [
     {
       _id: mongoose.Schema.Types.ObjectId,
-      nombre: String,
-      descripcion: String
+      name: String,
+      description: String
     }
   ]
 });

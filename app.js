@@ -6,12 +6,12 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-  res.send('¡Las mejores 30 ciudades del mundo');
+  res.send('¡Las mejores 20 ciudades del mundo');
 });
 
 app.get('/cities', async (req, res) => {
   try {
-    const cities = await City.find({}, '_id nombre');
+    const cities = await City.find({}, '_id name');
     res.json(cities);
   } catch (error) {
     console.error('Error al obtener datos de la base de datos:', error.message);
