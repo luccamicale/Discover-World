@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Rio de Janeiro",
+        "attractions": [
+          {
+            "name": "Christ the Redeemer",
+            "description": "A famous statue atop Corcovado mountain."
+          },
+          {
+            "name": "Sugarloaf Mountain",
+            "description": "A granite peak with panoramic views of the city."
+          },
+          {
+            "name": "Arraial do Cabo with boat tour",
+            "description": "Explore beautiful beaches and take a picturesque boat tour."
+          },
+          {
+            "name": "Ilha Grande Excursion",
+            "description": "Visit the paradisiacal Ilha Grande with beaches and natural trails."
+          },
+          {
+            "name": "Maracanã Stadium Tour",
+            "description": "Tour the iconic football stadium that has hosted historic events."
+          },
+          {
+            "name": "Rio Bio Park",
+            "description": "A zoo and botanical park highlighting the region's biodiversity."
+          }
+        ]
+      },
+      {
+        "name": "Buenos Aires",
+        "attractions": [
+          {
+            "name": "Obelisk",
+            "description": "Iconic monument marking the city center."
+          },
+          {
+            "name": "Japanese Garden",
+            "description": "A beautiful Japanese-designed garden offering tranquility."
+          },
+          {
+            "name": "Caminito Museum Street",
+            "description": "A museum street full of colorful houses and street art in La Boca neighborhood."
+          },
+          {
+            "name": "Floralis Generica",
+            "description": "A metal sculpture representing a flower that opens and closes with daylight."
+          },
+          {
+            "name": "Chinatown",
+            "description": "A vibrant area with Chinese cultural influences in the heart of Buenos Aires."
+          },
+          {
+            "name": "National Museum of Fine Arts",
+            "description": "An impressive collection of Argentine and international art."
+          }
+        ]
+      },
+      {
+        "name": "Zurich",
+        "attractions": [
+          {
+            "name": "Zurich Zoo",
+            "description": "A well-known zoo featuring a variety of wildlife."
+          },
+          {
+            "name": "St. Peter's Church",
+            "description": "An historic church known for its clock face and panoramic views of the city."
+          },
+          {
+            "name": "Opera House",
+            "description": "A renowned venue for opera and performing arts."
+          },
+          {
+            "name": "Rietberg Museum",
+            "description": "An art museum with a diverse collection from different cultures."
+          },
+          {
+            "name": "FIFA Museum",
+            "description": "A museum dedicated to the world of football (soccer)."
+          },
+          {
+            "name": "Japanese Garden Zurich",
+            "description": "A tranquil Japanese garden providing a serene escape."
+          }
+        ]
+      },
+      {
+        "name": "Venice",
+        "attractions": [
+          {
+            "name": "St. Mark's Square",
+            "description": "A famous public square surrounded by iconic landmarks."
+          },
+          {
+            "name": "Doge's Palace",
+            "description": "A historic palace known for its Venetian Gothic architecture."
+          },
+          {
+            "name": "Rialto Bridge",
+            "description": "An iconic bridge spanning the Grand Canal."
+          },
+          {
+            "name": "La Fenice",
+            "description": "A renowned opera house with a rich history of performances."
+          },
+          {
+            "name": "St. Mark's Campanile",
+            "description": "The campanile (bell tower) offering panoramic views of Venice."
+          }
+        ]
+      },
+      {
+        "name": "Estambul",
+        "attractions": [
+          {
+            "name": "Blue Mosque",
+            "description": "A stunning mosque known for its blue tiles and intricate architecture."
+          },
+          {
+            "name": "Hagia Sophia",
+            "description": "An iconic museum and former cathedral with a rich history."
+          },
+          {
+            "name": "Galata Tower",
+            "description": "A medieval stone tower offering panoramic views of the city."
+          },
+          {
+            "name": "Grand Bazaar",
+            "description": "One of the world's oldest and largest covered markets, offering diverse shopping."
+          },
+          {
+            "name": "Gulhane Park",
+            "description": "A historic park providing a peaceful escape in the heart of the city."
+          },
+          {
+            "name": "Beylerbeyi Palace",
+            "description": "A historic palace located on the Asian side of Istanbul, known for its lavish design."
+          }
+        ]
+      },
+      {
+        "name": "Abu Dhabi",
+        "attractions": [
+          {
+            "name": "Sheikh Zayed Mosque",
+            "description": "An architectural marvel, one of the largest mosques in the world."
+          },
+          {
+            "name": "Ferrari World Abu Dhabi",
+            "description": "An amusement park with thrilling rides and attractions based on Ferrari's brand."
+          },
+          {
+            "name": "Abu Dhabi Marina Mall",
+            "description": "A waterfront shopping destination with a variety of shops and entertainment."
+          },
+          {
+            "name": "The National Aquarium Abu Dhabi",
+            "description": "An aquarium showcasing marine life and providing an educational experience."
+          },
+          {
+            "name": "Yas Links Abu Dhabi",
+            "description": "A scenic golf course offering stunning views and challenging play."
+          },
+          {
+            "name": "Yas Mall",
+            "description": "A large shopping mall featuring a wide range of retail and entertainment options."
+          }
+        ]
+      },
+      {
+        "name": "Atenas",
+        "attractions": [
+          {
+            "name": "Panathenaic Stadium",
+            "description": "A historic stadium hosting the first modern Olympic Games in 1896."
+          },
+          {
+            "name": "Acropolis of Athens",
+            "description": "An ancient citadel atop a rocky outcrop, housing several historic buildings."
+          },
+          {
+            "name": "Theatre of Dionysus",
+            "description": "An ancient Greek theater at the base of the Acropolis dedicated to Dionysus, the god of wine and drama."
+          },
+          {
+            "name": "National Archaeological Museum of Athens",
+            "description": "The largest archaeological museum in Greece, featuring a vast collection of artifacts."
+          },
+          {
+            "name": "Mount Lycabettus",
+            "description": "A limestone hill providing panoramic views of Athens, often accessed by a funicular railway."
+          },
+          {
+            "name": "Odeon of Herodes Atticus",
+            "description": "A stone theater located on the southwest slope of the Acropolis, used for various performances."
+          }
+        ]
+      },
+      {
+        "name": "Orlando",
+        "attractions": [
+          {
+            "name": "Universal Orlando Resort",
+            "description": "A popular theme park resort with various attractions, including Islands of Adventure and Universal Studios."
+          },
+          {
+            "name": "Walt Disney World Resort",
+            "description": "A world-renowned entertainment complex featuring multiple theme parks, resorts, and more."
+          },
+          {
+            "name": "Disney's Animal Kingdom",
+            "description": "A Disney theme park dedicated to the themes of nature, wildlife, and adventure."
+          },
+          {
+            "name": "Orlando International Premium Outlets",
+            "description": "A shopping destination offering a wide range of discounted brand-name merchandise."
+          },
+          {
+            "name": "Hollywood Rip Ride Rockit",
+            "description": "A roller coaster at Universal Studios Florida known for its music integration."
+          },
+          {
+            "name": "Disney Springs",
+            "description": "An entertainment complex with dining, shopping, and entertainment options at Walt Disney World Resort."
+          }
+        ]
+      },
+      {
+        "name": "Florencia",
+        "attractions": [
+          {
+            "name": "Ponte Vecchio",
+            "description": "A medieval stone bridge over the Arno River, known for its shops and historical significance."
+          },
+          {
+            "name": "Galleria degli Uffizi",
+            "description": "One of the world's most famous art museums, housing an extensive collection of Renaissance masterpieces."
+          },
+          {
+            "name": "Piazza del Duomo",
+            "description": "The main square in Florence featuring the iconic Florence Cathedral, Giotto's Campanile, and the Baptistery of St. John."
+          },
+          {
+            "name": "Basilica di Santa Maria Novella",
+            "description": "A Dominican church with beautiful frescoes and a peaceful cloister."
+          },
+          {
+            "name": "Mercato Centrale (Central Market of Florence)",
+            "description": "A bustling market offering fresh produce, local products, and a variety of food stalls."
+          },
+          {
+            "name": "Galleria dell'Accademia",
+            "description": "An art museum most famous for hosting Michelangelo's sculpture David."
+          }
+        ]
+      },
+      {
+        "name": "Tokyo",
+        "attractions": [
+          {
+            "name": "Shinjuku Gyoen National Garden",
+            "description": "A large park with a mix of traditional Japanese, English, and French garden landscapes."
+          },
+          {
+            "name": "Ginza",
+            "description": "Tokyo's upscale shopping and dining district, known for its luxury boutiques and entertainment."
+          },
+          {
+            "name": "Meiji Shrine",
+            "description": "A Shinto shrine surrounded by a forest in the heart of Tokyo, dedicated to Emperor Meiji and Empress Shoken."
+          },
+          {
+            "name": "Sensō-ji",
+            "description": "Tokyo's oldest Buddhist temple located in Asakusa, known for its Thunder Gate and shopping street."
+          },
+          {
+            "name": "Odaiba",
+            "description": "A popular entertainment and shopping district on a man-made island in Tokyo Bay."
+          },
+          {
+            "name": "Tsukiji Outer Market",
+            "description": "A lively market offering a variety of fresh seafood, street food, and culinary delights."
+          }
+        ]
+      },
+      {
+        "name": "Estocolmo",
+        "attractions": [
+          {
+            "name": "Vasa Museum",
+            "description": "A maritime museum housing the Vasa, a 17th-century warship that sank and was salvaged in the 20th century."
+          },
+          {
+            "name": "Skansen",
+            "description": "An open-air museum and zoo showcasing Swedish cultural history and wildlife."
+          },
+          {
+            "name": "Kungsträdgården",
+            "description": "A public park in the heart of Stockholm known for its cherry blossoms and cultural events."
+          },
+          {
+            "name": "Gröna Lund",
+            "description": "An amusement park on Djurgården Island offering rides, concerts, and entertainment."
+          },
+          {
+            "name": "The Royal Armoury",
+            "description": "A museum displaying royal costumes, armor, and coronation carriages."
+          },
+          {
+            "name": "Östermalms Food Hall",
+            "description": "A historic food market offering a variety of fresh produce, gourmet foods, and local delicacies."
+          }
+        ]
+      },
+      {
+        "name": "New York",
+        "attractions": [
+          {
+            "name": "Central Park",
+            "description": "A vast urban park in the heart of Manhattan, offering green spaces, lakes, and recreational activities."
+          },
+          {
+            "name": "Statue of Liberty",
+            "description": "A symbol of freedom and democracy, located on Liberty Island in New York Harbor."
+          },
+          {
+            "name": "Empire State Building",
+            "description": "An iconic skyscraper offering breathtaking views of the New York City skyline."
+          },
+          {
+            "name": "Brooklyn Bridge",
+            "description": "A historic suspension bridge connecting Manhattan and Brooklyn, known for its architectural beauty."
+          },
+          {
+            "name": "Times Square",
+            "description": "A bustling commercial and entertainment hub, famous for its bright lights and Broadway theaters."
+          },
+          {
+            "name": "One World Trade Center",
+            "description": "The main building of the World Trade Center complex, symbolizing resilience and remembrance."
+          }
+        ]
+      },
+      {
+        "name": "Bacelona",
+        "attractions": [
+          {
+            "name": "Camp Nou (Barcelona FC Stadium)",
+            "description": "The home stadium of FC Barcelona, one of the most iconic football stadiums in the world."
+          },
+          {
+            "name": "Basilica of Santa Maria del Mar",
+            "description": "A stunning Catalan Gothic church known for its impressive architecture and maritime history."
+          },
+          {
+            "name": "Arc de Triomf (Triumphal Arch of Barcelona)",
+            "description": "A triumphal arch built as the main access gate for the 1888 Barcelona World Fair."
+          },
+          {
+            "name": "Casa Batlló",
+            "description": "An architectural masterpiece designed by Antoni Gaudí, known for its unique and imaginative design."
+          },
+          {
+            "name": "Park Güell",
+            "description": "A public park with colorful mosaics, unique architecture, and panoramic views of the city."
+          },
+          {
+            "name": "La Boqueria Market",
+            "description": "A bustling and historic market offering a wide variety of fresh produce, meats, and local delicacies."
+          }
+        ]
+      },
+      {
+        "name": "Berlin",
+        "attractions": [
+          {
+            "name": "Berlin Cathedral (Berliner Dom)",
+            "description": "A baroque-style cathedral on Museum Island, known for its stunning architecture and panoramic views."
+          },
+          {
+            "name": "Brandenburg Gate",
+            "description": "An iconic neoclassical gate and symbol of German unity, located in Pariser Platz."
+          },
+          {
+            "name": "East Side Gallery",
+            "description": "A section of the Berlin Wall transformed into an outdoor gallery with murals and artwork."
+          },
+          {
+            "name": "Memorial to the Murdered Jews of Europe",
+            "description": "A solemn and powerful Holocaust memorial consisting of concrete slabs of varying heights."
+          },
+          {
+            "name": "Tiergarten",
+            "description": "A large public park in the center of Berlin, offering green spaces and walking paths."
+          },
+          {
+            "name": "Berlin TV Tower (Fernsehturm)",
+            "description": "A prominent television tower with an observation deck, providing panoramic views of the city."
+          }
+        ]
+      },
+      {
+        "name": "Londres",
+        "attractions": [
+          {
+            "name": "The London Eye",
+            "description": "A giant observation wheel on the South Bank of the River Thames, providing panoramic views of the city."
+          },
+          {
+            "name": "Tower Bridge",
+            "description": "An iconic bascule and suspension bridge crossing the River Thames, known for its stunning architecture."
+          },
+          {
+            "name": "Hyde Park",
+            "description": "One of London's largest and most famous parks, offering recreational activities and serene landscapes."
+          },
+          {
+            "name": "The British Museum",
+            "description": "A world-renowned museum showcasing a vast collection of art and artifacts from different cultures."
+          },
+          {
+            "name": "St. Paul's Cathedral",
+            "description": "An Anglican cathedral with a dome offering breathtaking views of London from the Golden Gallery."
+          },
+          {
+            "name": "The Shard",
+            "description": "A modern skyscraper with an observation deck, providing stunning views of London's skyline."
+          }
+        ]
+      },
+      {
+        "name": "Roma",
+        "attractions": [
+          {
+            "name": "Colosseum",
+            "description": "An ancient Roman amphitheater, known for its gladiator contests and historic significance."
+          },
+          {
+            "name": "Roman Forum",
+            "description": "A rectangular forum surrounded by the ruins of ancient government buildings, temples, and arches."
+          },
+          {
+            "name": "St. Peter's Basilica",
+            "description": "A major Catholic church and one of the holiest shrines in Christianity, located in Vatican City."
+          },
+          {
+            "name": "Altare della Patria (Monumento a Vittorio Emanuele II)",
+            "description": "A grandiose monument dedicated to the first king of unified Italy, located in Piazza Venezia."
+          },
+          {
+            "name": "Castel Sant'Angelo",
+            "description": "A cylindrical fortress and museum on the banks of the Tiber River, with a rich history."
+          },
+          {
+            "name": "Trevi Fountain (Fontana di Trevi)",
+            "description": "A famous Baroque fountain where visitors can toss a coin to ensure their return to Rome."
+          }
+        ]
+      },
+      {
+        "name": "Madrid",
+        "attractions": [
+          {
+            "name": "Plaza Mayor",
+            "description": "A historic central square surrounded by vibrant buildings, known for events and performances."
+          },
+          {
+            "name": "Royal Palace of Madrid",
+            "description": "The official residence of the Spanish royal family, showcasing opulent architecture and art."
+          },
+          {
+            "name": "Santiago Bernabéu Stadium",
+            "description": "The home stadium of Real Madrid, one of the most iconic football stadiums in the world."
+          },
+          {
+            "name": "San Miguel Market",
+            "description": "A popular market offering a variety of gourmet foods, tapas, and fresh produce."
+          },
+          {
+            "name": "Reina Sofía Museum (Museo Nacional Centro de Arte Reina Sofía)",
+            "description": "A renowned art museum featuring works by Spanish artists, including Picasso's Guernica."
+          },
+          {
+            "name": "Retiro Park (Parque de El Retiro)",
+            "description": "A large public park with gardens, sculptures, and a boating lake, providing a peaceful escape."
+          }
+        ]
+      },
+      {
+        "name": "Amsterdam",
+        "attractions": [
+          {
+            "name": "Van Gogh Museum",
+            "description": "A museum dedicated to the life and works of the famous Dutch painter Vincent van Gogh."
+          },
+          {
+            "name": "Anne Frank House",
+            "description": "The former hiding place where Anne Frank wrote her diary during World War II, now a museum."
+          },
+          {
+            "name": "Heineken Experience",
+            "description": "A brewery tour and interactive experience showcasing the history of Heineken beer."
+          },
+          {
+            "name": "Jordaan",
+            "description": "A trendy neighborhood known for its narrow streets, art galleries, and unique boutiques."
+          },
+          {
+            "name": "Royal Palace of Amsterdam (Koninklijk Paleis)",
+            "description": "A historic palace in the heart of Amsterdam, used for royal functions and ceremonies."
+          },
+          {
+            "name": "Artis Royal Zoo (Artis)",
+            "description": "A historic zoo in the city center, featuring a variety of animals and botanical gardens."
+          }
+        ]
+      },
+      {
+        "name": "Dubai",
+        "attractions": [
+          {
+            "name": "Burj Khalifa",
+            "description": "The world's tallest building, offering breathtaking views of the city and beyond."
+          },
+          {
+            "name": "Burj Al Arab",
+            "description": "A luxurious and iconic hotel known for its sail-shaped architecture and opulent design."
+          },
+          {
+            "name": "Dubai Mall",
+            "description": "One of the largest shopping malls in the world, featuring a wide range of retail and entertainment options."
+          },
+          {
+            "name": "Dubai Fountain",
+            "description": "A captivating musical fountain show located at the base of the Burj Khalifa."
+          },
+          {
+            "name": "Dubai Aquarium & Underwater Zoo",
+            "description": "An impressive aquarium with a variety of marine life and an underwater zoo experience."
+          },
+          {
+            "name": "Atlantis Aquaventure Waterpark",
+            "description": "A thrilling waterpark located at Atlantis, The Palm, featuring slides, pools, and marine attractions."
+          }
+        ]
+      },
+      {
+        "name": "Paris",
+        "attractions": [
+          {
+            "name": "Eiffel Tower",
+            "description": "An iconic iron lattice tower, one of the most recognizable landmarks in the world."
+          },
+          {
+            "name": "Louvre Museum (Musée du Louvre)",
+            "description": "The world's largest art museum and a historic monument, housing a vast collection of art and artifacts."
+          },
+          {
+            "name": "Notre-Dame Cathedral",
+            "description": "A medieval cathedral known for its French Gothic architecture and rich history."
+          },
+          {
+            "name": "Arc de Triomphe",
+            "description": "A triumphal arch at the western end of the Champs-Élysées, honoring those who fought and died for France."
+          },
+          {
+            "name": "Luxembourg Palace (Palais du Luxembourg)",
+            "description": "A beautiful palace and gardens, currently housing the French Senate."
+          },
+          {
+            "name": "Palace of Versailles (Château de Versailles)",
+            "description": "A grand palace known for its opulent architecture, stunning gardens, and historical significance."
+          }
+        ]
+      }
+]
