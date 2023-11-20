@@ -1,8 +1,11 @@
-// app.js
 const express = require('express');
-const fs = require('fs'); // Nueva línea para manejar archivos
+const cors = require('cors');  // Importa el paquete cors
+const fs = require('fs');
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+// Agrega middleware de CORS a tu aplicación
+app.use(cors());
 
 app.get('/', (req, res) => {
   res.send('¡Las mejores 20 ciudades del mundo!');
